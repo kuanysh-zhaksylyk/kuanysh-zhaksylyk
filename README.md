@@ -10,7 +10,7 @@
 ---
 
 ### :ok_man: About Me :
-I am a Trainee DevOps Engineer at Intelligent Semantic Systems.
+I am a junior Data Engineer at Intelligent Semantic Systems.
 
 - Borned in Kazakhstan, work in Belarus.
 
